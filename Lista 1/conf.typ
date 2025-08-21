@@ -17,7 +17,7 @@
   )
   grid(
     columns: (3fr, 1fr),
-    align(left, text(60pt, font: "Mea Culpa", fill: sailor_red)[
+    align(left, text(60pt, fill: sailor_red)[
       Lista #lista
     ]),
     align(right, text(12pt, font: "New Computer Modern", top-edge: "baseline")[
